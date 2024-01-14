@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://vedantbonde19.github.io/sitemap.xml
