@@ -8,7 +8,7 @@ profile:
   image: vedant_profile_square.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <center>Sindelfingen, Germany <a href="https://www.linkedin.com/in/vedant-bonde">🌎</a> </center>
+    <center><a href="https://maps.app.goo.gl/fUDA1XS2WDtfBQA88">Sindelfingen, DE 🌎</a> </center>
       <center>
           <a href="https://www.linkedin.com/in/vedant-bonde">LinkedIn</a> | 
           <a href="https://github.com/vedantbonde19">GitHub</a> |
