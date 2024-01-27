@@ -21,8 +21,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a master thesis student at Mercedes-Benz AG in the Pattern Recognition research team. My master's thesis research topic is **Controllable Generation of Out-of-Distribution scenarios in Autonomous Driving**. I'm enrolled in MSc. Data Science and AI at Universität des Saarlandes [Graduating in **May 2024**]. I carry more than **2 years of work experience** at academic and profesisonal institutions researching, developing and shipping AI based solutions.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-I am a master thesis student at Mercedes-Benz AG in the Pattern Recognition team,
+My previous experiences include working as a Research Assistant at Fraunhofer-Gesellschaft in the [MatBeyoNDT](https://www.izfp.fraunhofer.de/en/technologien/forschungs--und-leistungszentren/MatBeyoNDT.html) team to develop multimodal (Vision & Speech) systems for precision lifestock monitoring. I have also worked at German Research Center for Artificial Intelligence (DFKI) in the [Neuro-Mechanistic Modelling](https://www.dfki.de/en/web/research/research-departments/neuro-mechanistic-modeling) group to create custom multi-agent Reinforcement Learning environments and train RL-based Deep Learning models.
