@@ -40,21 +40,7 @@ layout: default
     {% endif %}
 
     <div class="clearfix">{{ content }}</div>
-
-          <!-- Add companies and Uni logos -->
-          <hr>
-
-          <div class="container">
-            <div class="row">
-              <div class="col">
-                  {% include figure.html path="assets/logo/du.png" title="example image" class="img-fluid rounded" %}
-              </div>
-            </div>
-          </div>
-
-          {% endif %}
-          <hr>
-
+    
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>

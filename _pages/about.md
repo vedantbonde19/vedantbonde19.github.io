@@ -6,11 +6,14 @@ subtitle:
 profile:
   align: right
   image: prof_pic_vedant.jpg
-  image_circular: true # crops the image to make it circular
-  # more_info: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <center>Germany</center>
+      <center>
+          <a href="https://www.linkedin.com/in/vedant-bonde">LinkedIn</a> | 
+          <a href="https://github.com/vedantbonde19">GitHub</a> |
+          <a href="mailto:vedantbonde19@gmail.com">Email</a>
+      </center>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -24,8 +27,3 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
-
-
-Link to the residences 
-
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=10a45UYffmhb2dgsDrl05O_IiRlE294w&ehbc=2E312F" width="640" height="480"></iframe>
