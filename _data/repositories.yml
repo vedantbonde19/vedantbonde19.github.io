@@ -1,14 +1,15 @@
 github_users:
-  - torvalds
+  - vedantbonde
   - vedantbonde19
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
+
   - vedantbonde19/3D-Mesh-Transform-PyTorch3D
+  - vedantbonde19/RL-Karel-Task-DDQN
   - sambitbhaumik/siamese-nn-sts
+  - root-project/root
+  - vedantbonde19/computer_graphics_opengl
+  - vedantbonde/Food-Visualizer
+
+
 
