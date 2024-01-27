@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
@@ -12,6 +12,9 @@ profile:
     <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
+
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=10a45UYffmhb2dgsDrl05O_IiRlE294w&ehbc=2E312F" width="640" height="480"></iframe>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
