@@ -1,6 +1,7 @@
 github_users:
-  - vedantbonde
+
   - vedantbonde19
+  - vedantbonde
 
 github_repos:
 
@@ -10,6 +11,3 @@ github_repos:
   - root-project/root
   - vedantbonde19/computer_graphics_opengl
   - vedantbonde/Food-Visualizer
-
-
-
