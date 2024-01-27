@@ -5,7 +5,7 @@ permalink: /
 subtitle: Data Scientist | AI/ML | Computer Vision | Generative AI
 profile:
   align: right
-  image: vedant_profile.jpeg
+  image: vedant_profile_square.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <center>Germany</center>
@@ -25,5 +25,4 @@ Write your biography here. Tell the world about yourself. Link to your favorite 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-I am a master thesis student at Mercedes-Benz AG 
-
+I am a master thesis student at Mercedes-Benz AG in the Pattern Recognition team,
