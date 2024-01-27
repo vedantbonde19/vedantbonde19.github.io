@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Backchannel Agreement Detection with Transformer Networks
+description:  In this work, we conduct a comprehensive evaluation of multi-modal transformer architectures for automatic backchannel analysis based on pose and facial information. 
 img: assets/img/12.jpg
 importance: 1
 category: work
