@@ -8,7 +8,7 @@ github_repos:
   - jekyll/jekyll
   - jquery/jquery
   - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
   - mathjax/MathJax
+  - vedantbonde19/3D-Mesh-Transform-PyTorch3D
   - sambitbhaumik/siamese-nn-sts
 
