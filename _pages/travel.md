@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /nommap/
 url: https://www.traveledmap.com/traveledmap/OveBwzSNP6R0pny5S7Q0Ih2bpqt2#
 title: nomap 🌐
 description: museums travelled till now
