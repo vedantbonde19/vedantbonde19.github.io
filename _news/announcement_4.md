@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One of the young researchers selected to attend the 8th Heidelberg Laureate Forum!
+One of the young researchers selected to attend the 8th Heidelberg Laureate Forum! 🏷️

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
  
-Started working at Mercedes-Benz AG as a master thesis student.
+Started working at Mercedes-Benz AG as a master thesis student. 🚘

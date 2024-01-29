@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received President of India Gold Medal for Bachelor degree at University of Delhi. 
+Received President of India Gold Medal for Bachelor degree at University of Delhi. 🥇
