@@ -82,16 +82,19 @@ layout: default
 
       </div>
     </div>
+
     <hr>
 
     
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">Timeline</a>
       </h2>
       {% include news.liquid limit=false %} 
     {% endif %}
+
+    <hr>
 
     <!-- Latest posts -->
     {% if page.latest_posts %}
@@ -104,10 +107,12 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
+
+    <hr>
 
     <!-- Social -->
     {% if page.social %}
