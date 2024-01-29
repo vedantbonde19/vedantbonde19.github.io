@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded merit certificate for performance at the Indian National Mathematics Olympiad.
+Awarded merit certificate for performance at the National Mathematics Olympiad.

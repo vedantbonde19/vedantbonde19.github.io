@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received Honorable Mention for ACM ICPC Asia Regionals Programming Contest 2018.
+Received Honorable Mention for ACM ICPC Asia Regionals Programming Contest 2018. 🏆
