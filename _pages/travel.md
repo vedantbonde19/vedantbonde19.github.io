@@ -8,9 +8,10 @@ nav: true # not needed. Creating a link button in header.html itself
 nav_order: 5
 ---
 
-<!-- _pages/publications.md -->
-<div class="museums">
+For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=10a45UYffmhb2dgsDrl05O_IiRlE294w&ehbc=2E312F" width="960" height="720"></iframe>
+Organize your courses by years, topics, or universities, however you like!
 
-</div>
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=10a45UYffmhb2dgsDrl05O_IiRlE294w&ehbc=2E312F" width="800" height="600"></iframe>
+
