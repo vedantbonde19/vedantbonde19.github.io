@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Data Scientist | AI/ML | Computer Vision | Generative AI
 profile:
