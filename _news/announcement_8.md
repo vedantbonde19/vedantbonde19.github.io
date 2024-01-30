@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
  
-[Paper](https://docs.google.com/presentation/d/1Kx-7M-kDPGDgsFYi2BUbCefCOL7JAULSfhm1xjnLRqA/edit#slide=id.p) "-Backchannel Detection & Estimation from Video with Transformer Networks".
+[Paper-](https://docs.google.com/presentation/d/1Kx-7M-kDPGDgsFYi2BUbCefCOL7JAULSfhm1xjnLRqA/edit#slide=id.p) "Backchannel Detection & Estimation from Video with Transformer Networks".
