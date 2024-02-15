@@ -2,13 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: Data Scientist | AI/ML | Computer Vision | Generative AI
+subtitle: Data Scientist | AI/ML | Computer Vision | Generative Models
 profile:
   align: right
   image: vedant_profile_square.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <center><a href="https://maps.app.goo.gl/fUDA1XS2WDtfBQA88">Sindelfingen, DE 🌎</a> </center>
+    <center><a href="https://maps.app.goo.gl/fUDA1XS2WDtfBQA88">Sindelfingen, DE 🌍 </a> </center>
       <center>
           <a href="https://www.linkedin.com/in/vedant-bonde">LinkedIn</a> | 
           <a href="https://github.com/vedantbonde19">GitHub</a> |
