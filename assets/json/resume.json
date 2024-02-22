@@ -4,25 +4,37 @@
     "label": "MSc. Data Science and AI ",
     "image": "",
     "email": "vedantbonde19@gmail.com",
-    "phone": "+49 017646671370",
+    "phone": "+49 (0) 17646671370",
     "url": "https://vedantbonde19.github.io/",
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Mercedes-Benz AG",
+      "position": "Machine Learning Engineer (Thesis)",
+      "date": "Sept 1, 2023",
+      "summary": "Developed OOD data generation pipeline for realistic traffic scenarios using Generative Models on Argoverse data. Utilized custom wrapper for training local ML projects on Google Cloud Platform utilizing Docker and Flyte."
+    },
+
+    {
+      "name": "Mercedes-Benz AG",
+      "position": "Machine Learning Engineer (Thesis)",
+      "startDate": "09 '23",
+      "endDate": "05 '24",
+      "summary": "Developed OOD data generation pipeline for realistic traffic scenarios using Generative Models on Argoverse data. Utilized custom wrapper for training local ML projects on Google Cloud Platform utilizing Docker and Flyte."
+    },
+    {
+      "name": "Fraunhofer-Institut für Zerstörungsfreie Prüfverfahren (IZFP)",
+      "position": "Machine Learning Engineer",
+      "startDate": "",
+      "endDate": "2023-08-01",
+      "summary": "Developed categorical segmentation module for cattle using a U-Net autoencoder achieving 94% precision. Processed audio recordings of cattle for Emotion Recognition with Librosa, employing Docker to deploy on GCP. Created dashboards using R & Shiny for real-time monitoring and anomaly detection of cattle on time-series data."
+    },
+    {
+      "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI) Saarbrücken, DE",
+      "position": "Deep Learning Researcher",
+      "startDate": "2023-03-01",
+      "endDate": "2023-08-01",
+      "summary": "Created Multi-Agent Reinforcement Learning environments (MARL) using gym and visualization with Pygame. Evaluation of MARL environment using Deep-Q-Networks using Pytorch for measuring ethical decisions of agents."
     }
   ],
   "volunteer": [
